@@ -2,9 +2,9 @@
 
 #### Backend
 
-- **Interface-based Architecture**: Utilizing interfaces to define contracts between components, ensuring flexibility and maintainability.
+- **Interface-based Architecture**: Utilizing interfaces 
   
-- **Polymorphism for Versatility**: Leveraging polymorphic behavior to create adaptable and reusable code.
+- **Polymorphism for Versatility**: Leveraging polymorphic behavior
   
 - **Repository Pattern for Structured Data Access**: Implementing a repository pattern to organize and manage data access logic.
   
