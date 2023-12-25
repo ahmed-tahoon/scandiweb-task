@@ -1,6 +1,5 @@
 <?php
 namespace app\classes;
-use app\interface\ProductInterface;
 use PDO;
 
 
